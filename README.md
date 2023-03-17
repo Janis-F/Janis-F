@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hey there! I'm Janis 👋
 
-<!--
-**Janis-F/Janis-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header image](your_header_image_url)
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on: [your current project or job]
+- 🌱 I’m currently learning: [technology, language, or skill you're learning]
+- 👯 I’m looking to collaborate on: [type of projects you want to collaborate on]
+- 💬 Ask me about: [topics you'd like people to ask you about]
+- 📫 How to reach me: [your email or social media handles]
+- ⚡ Fun fact: [a fun fact about yourself]
+
+## 📈 GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
