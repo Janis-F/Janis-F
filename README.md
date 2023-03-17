@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80" alt="header image" width="800" height="300">
+  <img src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80" alt="header image" width="600" height="200">
 </p>
 
 ## 🌟 About Me
@@ -17,10 +17,6 @@ I'm passionate about harnessing the power of data to transform businesses, with 
 - [Stroke Prediction](your_project1_url) - 
 - [Soccer](your_project2_url) - 
 - [Project 3](your_project3_url) - 
-
-## 📈 GitHub Stats
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janis-F&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Technologies & Tools
 
