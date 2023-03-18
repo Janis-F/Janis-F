@@ -25,4 +25,4 @@ I'm passionate about harnessing the power of data to transform businesses, with 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
 
-If you'd like to connect, feel free to reach out at [janis.freimanis@hey.com](mailto:janis.freimanis@hey.com) or here on [LinkedIn](your_linkedin_profile_url)!
+If you'd like to connect, feel free to reach out at [janis.freimanis@hey.com](mailto:janis.freimanis@hey.com) or here on [LinkedIn](https://www.linkedin.com/in/janis-freimanis/)!
