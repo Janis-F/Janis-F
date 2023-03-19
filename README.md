@@ -10,9 +10,9 @@ I'm passionate about harnessing the power of data to transform businesses, with 
 
 ## 🔗 My Projects
 
-- [Stroke Prediction](https://github.com/Janis-F/stroke-prediction/tree/master) - 
-- [Soccer](your_project2_url) - 
-- [Project 3](your_project3_url) - 
+- [Stroke Prediction](https://github.com/Janis-F/stroke-prediction/tree/master) - Exploratory data analysis with python, supervised ML models, model deployment to Google Cloud Platform.
+- [European Football](your_project2_url) -  
+- [Mental Health in Tech](https://github.com/Janis-F/mental_health_in_tech) - EDA with python and SQL, inferential statistical analysis.
 
 ## 🛠️ Technologies & Tools
 
