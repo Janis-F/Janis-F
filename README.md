@@ -6,11 +6,11 @@ I'm passionate about harnessing the power of data to transform businesses, with 
 
 - 🥩 Favorite food: Rib Eye Steak
 - 🎧 Favorite music: UK Hip Hop
-- 🌱 Tiny joys I cherish: Spending quality time with my wife and daughter, whether we're relaxing or engaging in activities together 
+- 🌱 Tiny joys I cherish: Spending quality time with my family, whether we're relaxing or engaging in activities together 
 
 ## 🔗 My Projects
 
-- [Stroke Prediction](your_project1_url) - 
+- [Stroke Prediction](https://github.com/Janis-F/stroke-prediction/tree/master) - 
 - [Soccer](your_project2_url) - 
 - [Project 3](your_project3_url) - 
 
