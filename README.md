@@ -11,7 +11,7 @@ I'm passionate about harnessing the power of data to transform businesses, with 
 ## 🔗 My Projects
 
 - [Stroke Prediction](https://github.com/Janis-F/stroke-prediction/tree/master) - The Stroke Prediction and Prevention project leverages exploratory data analysis and supervised machine learning to accurately predict stroke risks. By deploying the model on Google Cloud Platform, it empowers healthcare professionals and individuals to take timely, data-driven preventive measures.
-- [European Football](https://github.com/Janis-F/European-soccer-analysis) -  Secrets behind top-performing European soccer teams have been uncovered using EDA with Python and SQL, alongside predictions through regression models, revealing key performance indicators and insights driving success on the field.
+- [European Football](https://github.com/Janis-F/European-soccer-analysis) -  Secrets behind top-performing European football teams have been uncovered using EDA with Python and SQL, alongside predictions through regression models, revealing key performance indicators and insights driving success on the field.
 - [Mental Health in Tech](https://github.com/Janis-F/mental_health_in_tech) - The critical issue of mental health in the tech industry has been investigated through EDA with Python and SQL, coupled with inferential statistical analysis, shedding light on vital patterns and trends contributing to the well-being of professionals in this fast-paced domain.
 
 ## 🛠️ Technologies & Tools
