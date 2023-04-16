@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm passionate about harnessing the power of data to transform businesses, with a background in fintech and project management. Currently, I'm expanding my skills in data science at Turing College, focusing on big data, data visualization, and machine learning.
+I'm passionate about harnessing the power of data to transform businesses, with a background in fintech and project management. Currently, I'm expanding my data skills at Turing College, focusing on data analysis and machine learning.
 
 - 🥩 Favorite food: Rib Eye Steak
 - 🎧 Favorite music: UK Hip Hop
